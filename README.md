@@ -4,22 +4,6 @@
 
 > Created as part of technical test for **mobile dev** role at Hays Recruiting - Almundo.com
 
-### Quick start
-
-```bash
-# clone repo
-$ git clone https://github.com/lexmartinez/react-native-hotels-app
-
-# change directory to cloned app
-$ cd react-native-hotels-app
-
-# install the dependencies with npm
-$ npm install
-
-# start IOS emulator with running App
-$ react-native run-ios
-```
-
 # Table of Contents
 
 * [Dependencies](#dependencies)
